@@ -1,0 +1,10 @@
+
+		Name : Sajjan
+		Age : 22
+		Salary : 22222
+		Working Position :Dispensor
+
+		Name : Sneha
+		Age : 34
+		Salary : 300000
+		Working Position :Receiptionist
